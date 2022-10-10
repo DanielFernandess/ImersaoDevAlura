@@ -35,4 +35,4 @@
 - [Códigos-fonte](ImersaoDevAlura/Aula10-Portfolio/Portfolio2.0)
 
 ---
-Entre em contato para quaisquer dúvida [email](mailto:carlos.fernandes89521@alunos.ufersa.edu.br).
+Para qualquer sugestão ou melhoria, envie um [email](mailto:carloscdanield@gmail.com).
