@@ -1,7 +1,20 @@
 # ImersaoDevAlura
-## Imersão Dev | Alura
 
-##### - 10 Aulas ministradas pelos intrutores(a): Paulo Silveira | Rafaella Ballerini | Guilherme Lima
+# Sobre
+
+Imersão Dev | Alura.
+
+Projetos desenvolvidos na Imersão Dev | Alura.
+
+10 Aulas ministradas pelos intrutores(a): Paulo Silveira | Rafaella Ballerini | Guilherme Lima.
+
+# Tecnologias utilizadas
+
+- HTML
+- CSS
+- JavaScript
+
+# Projetos
 
 ### Calculadora De Media
 - [Ver no CodePen](https://codepen.io/danielfernandess/pen/mdLWGpG)
@@ -33,6 +46,12 @@
 ### Portfólio 2.0
 - [Ver no CodePen](https://codepen.io/danielfernandess/pen/ExLmKde)
 - [Códigos-fonte](ImersaoDevAlura/Aula10-Portfolio/Portfolio2.0)
+
+# Autor
+
+Carlos Daniel Freire Fernandes
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lpaulovt/)](https://www.linkedin.com/in/carlosdanielfernandes) 
 
 ---
 Para qualquer sugestão ou melhoria, envie um [email](mailto:carloscdanield@gmail.com).
